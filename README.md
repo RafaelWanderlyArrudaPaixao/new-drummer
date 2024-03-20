@@ -12,25 +12,25 @@ Com boatos sobre um novo baterista na banda [Slipknot](https://slipknot1.com/, "
 
 | Le-Scone | New-Drummer |
 |:--------:|:--------:|
-![alt text](main.png) | ![alt text](main-1.png) |
+|![alt text](img/readme/le-scone/main.png) | ![alt text](img/readme/new-drummer/main.png)|
 
 **<center>Secton-1</center>**
 
 | Le-Scone | New-Drummer |
 |:--------:|:--------:|
-![alt text](section-1-1.png) | ![alt text](section-1.png) |
+|![alt text](img/readme/le-scone/section-1.png) | ![alt text](img/readme/new-drummer/section-1.png)|
 
 **<center>Secton-2</center>**
 
 | Le-Scone | New-Drummer |
 |:--------:|:--------:|
-![alt text](section-2-1.png) | ![alt text](section-2.png) |
+|![alt text](img/readme/le-scone/section-2.png) |![alt text](img/readme/new-drummer/section-2.png) |
 
 **<center>Footer</center>**
 
 | Le-Scone | New-Drummer |
 |:--------:|:--------:|
-![alt text](footer-1.png) | ![alt text](footer.png) |
+|![alt text](img/readme/le-scone/footer.png) |![alt text](img/readme/new-drummer/footer.png) |
 
 
 <!-- Referencias -->
