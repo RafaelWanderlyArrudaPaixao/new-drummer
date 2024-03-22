@@ -3,7 +3,7 @@
 #### Este web site foi criado com fins educacionais.
 &nbsp;
 
-Em sala de aula foi criado o web site le-scone (https://github.com/RafaelWanderlyArrudaPaixao/le-scone), e tinhamos como objetivo recriar algo com poucas modficações do código fonte e colocar algo com nossa cara. Eis que surje o New Drummer.
+Em sala de aula foi criado o web site [le-scone](https://le-scone-eight.vercel.app// "Github do Le-scone") (repositóro em: [Github](https://github.com/RafaelWanderlyArrudaPaixao/le-scone/ "Github do Le-Scone")), e tinhamos como objetivo recriar algo com poucas modficações do código fonte e colocar algo com nossa cara. Eis que surje o New Drummer.
 
 Com boatos sobre um novo baterista na banda [Slipknot](https://slipknot1.com/, "Site do Slipknot"), o nome de [Eloy Casagrande][Arbitrary case-insensitive reference text] vem sendo muito falado. por isso a idéia desse site, de mostrar um pouco dos feitos dele.
 &nbsp;
